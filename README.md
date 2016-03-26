@@ -1,2 +1,2 @@
 # Concurrency
-Learning advanced java
+Learning advanced java with Concurrency.
